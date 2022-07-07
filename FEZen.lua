@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
-
 local p = game.Players.LocalPlayer
 local char = game.Workspace.non
 local Character = char
