@@ -36,7 +36,6 @@ U = Homing Cutting storm
 --For those who used this when it was just released, it was broken, it's fixed now as of 12-18-2018--
 --Impale dem suckazz and reeeeeeee--
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20Align%20Method.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 Player=game.Players.LocalPlayer
 Character=Player.Character
 Character.Humanoid.Name = "nightfall"
