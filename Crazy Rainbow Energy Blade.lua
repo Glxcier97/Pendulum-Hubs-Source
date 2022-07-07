@@ -2,8 +2,6 @@
 --When you Click its explode asf
 --Touch kids with the sword to kill them.
 --Made by N3xul
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
-
 
 local runDummyScript = function(f,scri)
 local oldenv = getfenv(f)
