@@ -4,7 +4,6 @@
 --This edit is by CKbackup (Sugarie Saffron)--------------------
 --Credits to whoever the hell made the original Solaris---------
 ----------------------------------------------------------------
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 game.Players.LocalPlayer.Character:FindFirstChild("MeshPartAccessory").Name = "gaytek"
 _G.loop = true
 local player = game.Players.LocalPlayer
