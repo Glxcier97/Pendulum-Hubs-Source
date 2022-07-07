@@ -1,5 +1,3 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 --// Shortcut Variables \--
 local S = setmetatable({},{__index = function(s,i) return game:service(i) end})
 local CF = {N=CFrame.new,A=CFrame.Angles,fEA=CFrame.fromEulerAnglesXYZ}
