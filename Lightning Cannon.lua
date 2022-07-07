@@ -1,5 +1,3 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 local LoadLibrary = game:GetObjects("rbxassetid://8299466510")[1]
 
 	
