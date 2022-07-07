@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 warn("Netless Activated!")
 _G.loop = true
 local player = game.Players.LocalPlayer
