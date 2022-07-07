@@ -1,10 +1,3 @@
---//====================================================\\--
---||			   CREATED BY SHACKLUSTER
---\\====================================================//--
-
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 _G.loop = true
 local player = game.Players.LocalPlayer
 local char = player.Character
