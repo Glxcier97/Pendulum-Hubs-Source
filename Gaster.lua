@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 function clerp(c1,c2,al)
     local com1 = {c1.X,c1.Y,c1.Z,c1:toEulerAnglesXYZ()}
     local com2 = {c2.X,c2.Y,c2.Z,c2:toEulerAnglesXYZ()}
