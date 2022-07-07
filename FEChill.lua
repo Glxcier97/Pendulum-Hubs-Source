@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 local char = game.Workspace.non
 --//Lol try to figure this one out//
 function rainb(hue)
