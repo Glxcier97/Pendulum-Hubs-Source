@@ -5,7 +5,6 @@ local m = game.Players.LocalPlayer:GetMouse()
 local mouse = m
 local Mouse = m
 _G.Collisions = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 _G.loop2 = true
 local player = game.Players.LocalPlayer
 local char = player.Character
