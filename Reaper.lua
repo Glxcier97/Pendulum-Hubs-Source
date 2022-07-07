@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 warn("Netless Activated!")
 -- Mewy23's message --
 -- I'll kill you if you leak this e-e --
