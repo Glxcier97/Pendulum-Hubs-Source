@@ -4,7 +4,6 @@
 -- Discord: Nebula the Zorua#6969
 -- Youtube: https://www.youtube.com/channel/UCo9oU9dCw8jnuVLuy4_SATA
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 _G.loop = true
 local player = game.Players.LocalPlayer
 local char = player.Character
