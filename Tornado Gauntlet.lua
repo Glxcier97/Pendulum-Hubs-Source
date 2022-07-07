@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)()
 warn'Lunarist Loaded.'
 warn'Do not leak this, or else.'
