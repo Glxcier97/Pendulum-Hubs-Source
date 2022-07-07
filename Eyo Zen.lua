@@ -31,8 +31,6 @@ local FavIDs = {
 	595230126 --Robot Language
 	}
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
-
 --The reality of my life isn't real but a Universe -makhail07
 wait()
 local plr = game:service'Players'.LocalPlayer
