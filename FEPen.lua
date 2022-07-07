@@ -2,9 +2,6 @@
 Hat to wear: https://www.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
 ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
-
-
 -----------------------------------------------------------------------------------
 
 local plrs = game:GetService("Players")
