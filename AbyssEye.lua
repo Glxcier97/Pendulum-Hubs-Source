@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 --//====================================================\\--
 --||               ONLY 90s KIDS REMEMBER
 --||              ABYSS EYE BY SHACKLUSTER
