@@ -5,7 +5,6 @@ PUT YOUR SCRIPTS BELOW HERE VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 ]]
 
 --Hacker X Smol hacker edit by InfiniteOneWithdank
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)()
 
 
