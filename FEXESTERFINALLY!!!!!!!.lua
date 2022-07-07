@@ -20,8 +20,6 @@ K = Beam(The longer you hold down the key, the stronger it gets/longer it lasts.
 --Sadly, this got logged, one of my best work just being thrown out like this is a real shame.--
 --This was made before FE so using this may or may not lag the server--
 --Keep in mind that THIS was never even finished at all, i stopped working on this when skidcentric leaked it, who knows how big this script could've been?--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
-
 Player=game:GetService("Players").LocalPlayer
 Character=game.Workspace.non
 Character.Humanoid.Name = "noneofurbusiness"
